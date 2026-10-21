@@ -1,0 +1,16 @@
+{
+  "latestVersion": "1.0.40",
+  "versionCode": 40,
+  "releasedAt": "2026-10-20",
+  "notes": {
+    "ar": [
+      "تحسين وضوح الواجهة وترتيب الأيقونات على الهاتف.",
+      "تحسين التنقل بين الخريطة وأجندة الرحلات."
+    ],
+    "fr": [
+      "Amélioration de la lisibilité de l’interface mobile.",
+      "Amélioration de la navigation entre la carte et les sorties."
+    ]
+  },
+  "forceUpdate": false
+}
